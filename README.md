@@ -20,7 +20,7 @@ Its eclectic collections from over 1000 local and international lifestyle brands
 
 30,000+ Orders delivered per day, 1.5 L+ Fashion Products Listed, 18 M Monthly Active Users 
 
-<img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/Myntra-image-search/blob/main/images/img2.png" />
+<img align="left" alt="Visual Studio Code" height="600px" width="820px" src="https://github.com/harshithvh/Myntra-image-search/blob/main/images/img2.png" />
 
 # Image Search
 
@@ -43,7 +43,7 @@ Most of the fashion purchases are done when we see someone using the product and
 
 Deep learning is a subset of Machine Learning which is, in turn, a subset of AI. It is based on artificial neural networks and representation learning. It has a wide range of applications in areas like computer vision, bioinformatics, and board game programs, where the results are comparable to human expert performance, and in some cases even surpassed it. 
 
-<img align="left" alt="Visual Studio Code" height="520px" width="820px" src="https://github.com/harshithvh/Myntra-image-search/blob/main/images/img5.png" />
+<img align="left" alt="Visual Studio Code" height="620px" width="820px" src="https://github.com/harshithvh/Myntra-image-search/blob/main/images/img5.png" />
 
 # Image Search Implementation : INTUITION
 
