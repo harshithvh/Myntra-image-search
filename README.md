@@ -54,3 +54,12 @@ We will be performing the following three steps:
 1. Generate product attributes (features) using an algorithm
 2. Using the same algorithm, find attributes of clicked image
 3. Find images with attributes similar to clicked image attributes 
+
+<img align="left" alt="Visual Studio Code" width="273px" src="https://github.com/harshithvh/Myntra-image-search/blob/main/images/img6.png" />
+<img align="left" alt="Visual Studio Code" width="273px" src="https://github.com/harshithvh/Myntra-image-search/blob/main/images/img7.png" />
+<img align="left" alt="Visual Studio Code" width="273px" src="https://github.com/harshithvh/Myntra-image-search/blob/main/images/img8.png" />
+
+<img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/Myntra-image-search/blob/main/images/img9.png" />
+
+<img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/Myntra-image-search/blob/main/images/img10.png" />
+
